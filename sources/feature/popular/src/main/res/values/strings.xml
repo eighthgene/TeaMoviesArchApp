@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="popular_error">Something went wrong, try again…</string>
+    <string name="popular_placeholder">Something went wrong, try again…</string>
+
+</resources>
